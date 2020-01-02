@@ -1,0 +1,400 @@
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef2"), 
+    "formation" : NumberInt(343), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef3"), 
+    "formation" : NumberInt(3412), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(18), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef4"), 
+    "formation" : NumberInt(32212), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(11), 
+        NumberInt(18), 
+        NumberInt(9), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef5"), 
+    "formation" : NumberInt(31213), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(16), 
+        NumberInt(18), 
+        NumberInt(10), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef6"), 
+    "formation" : NumberInt(3142), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(10), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef7"), 
+    "formation" : NumberInt(3232), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(21), 
+        NumberInt(16), 
+        NumberInt(11), 
+        NumberInt(14), 
+        NumberInt(9), 
+        NumberInt(12), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef8"), 
+    "formation" : NumberInt(41212), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(18), 
+        NumberInt(10), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100ef9"), 
+    "formation" : NumberInt(4123), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(15), 
+        NumberInt(10), 
+        NumberInt(13), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100efa"), 
+    "formation" : NumberInt(4132), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(14), 
+        NumberInt(10), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100efb"), 
+    "formation" : NumberInt(4213), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(11), 
+        NumberInt(14), 
+        NumberInt(9), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100efc"), 
+    "formation" : NumberInt(4222), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(11), 
+        NumberInt(9), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100efd"), 
+    "formation" : NumberInt(4231), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(19), 
+        NumberInt(18), 
+        NumberInt(17), 
+        NumberInt(11), 
+        NumberInt(9), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100efe"), 
+    "formation" : NumberInt(4312), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(18), 
+        NumberInt(15), 
+        NumberInt(14), 
+        NumberInt(13), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100eff"), 
+    "formation" : NumberInt(433), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(15), 
+        NumberInt(14), 
+        NumberInt(13), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f00"), 
+    "formation" : NumberInt(4411), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(18), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f01"), 
+    "formation" : NumberInt(4141), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(10), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f02"), 
+    "formation" : NumberInt(42211), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(11), 
+        NumberInt(18), 
+        NumberInt(9), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f03"), 
+    "formation" : NumberInt(424), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(23), 
+        NumberInt(15), 
+        NumberInt(13), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f04"), 
+    "formation" : NumberInt(442), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f05"), 
+    "formation" : NumberInt(451), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(14), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(7), 
+        NumberInt(6), 
+        NumberInt(4), 
+        NumberInt(3)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f06"), 
+    "formation" : NumberInt(51211), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(18), 
+        NumberInt(10), 
+        NumberInt(12), 
+        NumberInt(8), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4), 
+        NumberInt(2)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f07"), 
+    "formation" : NumberInt(523), 
+    "position" : [
+        NumberInt(27), 
+        NumberInt(25), 
+        NumberInt(23), 
+        NumberInt(15), 
+        NumberInt(13), 
+        NumberInt(8), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4), 
+        NumberInt(2)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f08"), 
+    "formation" : NumberInt(541), 
+    "position" : [
+        NumberInt(25), 
+        NumberInt(16), 
+        NumberInt(15), 
+        NumberInt(13), 
+        NumberInt(12), 
+        NumberInt(8), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4), 
+        NumberInt(2)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f09"), 
+    "formation" : NumberInt(5212), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(15), 
+        NumberInt(18), 
+        NumberInt(13), 
+        NumberInt(8), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4), 
+        NumberInt(2)
+    ]
+}
+{ 
+    "_id" : ObjectId("5defbcfcd65af53e09100f0a"), 
+    "formation" : NumberInt(532), 
+    "position" : [
+        NumberInt(26), 
+        NumberInt(24), 
+        NumberInt(15), 
+        NumberInt(14), 
+        NumberInt(13), 
+        NumberInt(8), 
+        NumberInt(6), 
+        NumberInt(5), 
+        NumberInt(4), 
+        NumberInt(2)
+    ]
+}
